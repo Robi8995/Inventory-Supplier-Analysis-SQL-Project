@@ -461,19 +461,6 @@ FROM (
 ) t;
 ```
 
-## 📊 Recommended Visualizations
-
-- **Category Performance Dashboard** - Bar chart of turnover ratios by category (Clothing 5.35x vs. Toys 4.52x)
-- **Supplier Dependency Network** - Pie chart showing supplier concentration (Top 5 suppliers: 12.97%)
-- **Stock Status Overview** - Pie chart of stock classification (78.75% Sufficient, 21.25% Reorder Needed)
-- **Reorder Priority Matrix** - Scatter plot of stock level vs. annual sales
-- **High-Turnover Products** - Top 20 fastest-moving items ranked by turnover ratio
-- **Low Stock Alerts** - Table view of critical items requiring urgent procurement
-- **Category Comparison** - Multi-metric comparison across 8 categories
-- **Supplier Performance** - Column chart comparing products per supplier
-- **Inventory Health Score** - Dashboard showing percentage of products at optimal stock levels
-- **Turnover Distribution** - Histogram showing spread of turnover ratios across portfolio
-
 ## 🎓 Learning Outcomes
 
 - Supply chain and inventory management principles
@@ -490,7 +477,7 @@ FROM (
 - Creating actionable business intelligence for procurement decisions
 
 ## 📝 Author
-**Robin Jimmichan P**  
+**Robin Jimmichan Pooppally**  
 [LinkedIn](https://www.linkedin.com/in/robin-jimmichan-pooppally-676061291) | [GitHub](https://github.com/Robi8995)
 
 ## 📚 Technical Stack
