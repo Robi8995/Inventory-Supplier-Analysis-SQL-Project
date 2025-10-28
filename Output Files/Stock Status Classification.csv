@@ -1,0 +1,5 @@
+stock_category,product_count,percentage
+"Sufficient Stock",1066,88.83
+"Low Stock",102,8.50
+"Emergency Stock",31,2.58
+"Out of Stock",1,0.08

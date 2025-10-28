@@ -1,0 +1,9 @@
+category,total_products,avg_stock,total_annual_sales,turnover_ratio,min_stock,max_stock
+Clothing,147,531.11,417639,5.35,21,996
+Electronics,167,485.30,422401,5.21,3,987
+Health,143,529.28,388053,5.13,0,991
+Books,156,486.87,383098,5.04,15,986
+"Office Supplies",152,510.86,390169,5.02,3,984
+"Home & Kitchen",137,504.87,340521,4.92,4,998
+Sports,158,529.74,410732,4.91,5,993
+Toys,140,509.59,322662,4.52,6,999

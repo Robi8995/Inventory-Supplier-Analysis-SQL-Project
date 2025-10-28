@@ -1,0 +1,51 @@
+product_id,product_name,category,annual_sales_units,stock_on_hand,turnover_ratio
+211,Product_211,Electronics,4086,3,1362.00
+509,Product_509,"Office Supplies",3391,3,1130.33
+226,Product_226,Sports,3089,5,617.80
+87,Product_87,Electronics,1957,5,391.40
+97,Product_97,"Home & Kitchen",1539,4,384.75
+214,Product_214,Electronics,1923,5,384.60
+587,Product_587,Electronics,4186,11,380.55
+1159,Product_1159,Electronics,2775,8,346.88
+1164,Product_1164,Toys,4638,14,331.29
+1184,Product_1184,Electronics,3570,11,324.55
+449,Product_449,Electronics,2192,8,274.00
+111,Product_111,Health,3195,12,266.25
+541,Product_541,Electronics,2862,11,260.18
+362,Product_362,"Office Supplies",2782,11,252.91
+1200,Product_1200,Sports,4931,24,205.46
+95,Product_95,"Office Supplies",4849,25,193.96
+804,Product_804,"Home & Kitchen",4792,25,191.68
+53,Product_53,Clothing,4006,21,190.76
+498,Product_498,Sports,2752,15,183.47
+117,Product_117,"Office Supplies",3147,18,174.83
+879,Product_879,Toys,1016,6,169.33
+810,Product_810,Health,3065,19,161.32
+1028,Product_1028,Electronics,2687,18,149.28
+1132,Product_1132,"Office Supplies",3783,28,135.11
+427,Product_427,Electronics,3970,33,120.30
+823,Product_823,Clothing,4420,41,107.80
+6,Product_6,Sports,3014,29,103.93
+762,Product_762,"Home & Kitchen",2863,28,102.25
+139,Product_139,Health,4933,49,100.67
+862,Product_862,Books,4528,45,100.62
+599,Product_599,"Office Supplies",3644,38,95.89
+1134,Product_1134,Sports,3222,34,94.76
+752,Product_752,Toys,4997,57,87.67
+636,Product_636,Toys,3034,35,86.69
+366,Product_366,Electronics,1331,16,83.19
+288,Product_288,"Home & Kitchen",1993,24,83.04
+791,Product_791,Health,4232,51,82.98
+452,Product_452,Books,4001,49,81.65
+276,Product_276,Toys,3722,46,80.91
+1024,Product_1024,"Home & Kitchen",3446,43,80.14
+1037,Product_1037,Electronics,2499,32,78.09
+1142,Product_1142,"Home & Kitchen",4859,66,73.62
+796,Product_796,Books,2912,42,69.33
+1091,Product_1091,Toys,1643,24,68.46
+611,Product_611,"Office Supplies",4946,77,64.23
+275,Product_275,Toys,4359,68,64.10
+639,Product_639,Health,1309,21,62.33
+698,Product_698,Health,2614,42,62.24
+776,Product_776,Sports,4387,72,60.93
+1004,Product_1004,Health,3838,65,59.05

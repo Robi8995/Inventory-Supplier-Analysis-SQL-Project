@@ -1,0 +1,51 @@
+supplier_id,supplier_name,location,total_products,avg_stock,avg_annual_sales
+29,Supplier_29,Boston,33,541.85,2522.85
+40,Supplier_40,Chicago,32,544.31,2164.81
+47,Supplier_47,Boston,32,576.97,2287.72
+37,Supplier_37,Houston,31,504.19,2893.87
+25,Supplier_25,Houston,30,461.90,2050.30
+26,Supplier_26,"San Francisco",30,462.80,2475.00
+45,Supplier_45,Houston,30,562.23,2512.07
+34,Supplier_34,"Los Angeles",29,553.59,2241.00
+17,Supplier_17,Houston,29,523.17,2382.52
+6,Supplier_6,Boston,28,477.46,2707.46
+11,Supplier_11,Chicago,28,485.64,2357.32
+33,Supplier_33,Houston,28,486.04,2975.21
+15,Supplier_15,Boston,27,405.96,2898.26
+2,Supplier_2,Houston,26,536.77,2834.00
+3,Supplier_3,Dallas,26,486.00,2525.96
+32,Supplier_32,"New York",26,498.04,2580.38
+8,Supplier_8,Dallas,26,482.35,2001.58
+14,Supplier_14,Chicago,26,525.85,2184.08
+18,Supplier_18,Boston,26,443.54,2963.58
+30,Supplier_30,Houston,26,534.54,2515.42
+49,Supplier_49,"San Francisco",26,668.96,2422.12
+36,Supplier_36,Dallas,25,480.52,2895.80
+35,Supplier_35,"San Francisco",25,503.44,2778.60
+12,Supplier_12,Seattle,25,533.40,2722.08
+20,Supplier_20,Chicago,25,588.04,2249.92
+23,Supplier_23,"Los Angeles",25,638.52,2730.24
+24,Supplier_24,Boston,25,474.76,3359.32
+44,Supplier_44,Boston,25,515.00,2603.40
+22,Supplier_22,Dallas,24,586.08,2784.00
+39,Supplier_39,"New York",24,455.79,2865.71
+10,Supplier_10,"Los Angeles",23,519.26,2886.96
+38,Supplier_38,"New York",23,500.96,2360.65
+9,Supplier_9,Seattle,22,379.50,2452.00
+13,Supplier_13,Chicago,22,493.64,2315.36
+41,Supplier_41,Chicago,22,516.59,2819.73
+46,Supplier_46,Houston,22,495.14,2748.95
+5,Supplier_5,Chicago,21,495.67,2539.43
+4,Supplier_4,Seattle,21,431.95,2461.14
+7,Supplier_7,Dallas,21,607.62,2768.76
+50,Supplier_50,"San Francisco",20,511.60,2914.00
+28,Supplier_28,"Los Angeles",19,463.11,2777.84
+42,Supplier_42,Seattle,19,398.89,2489.89
+43,Supplier_43,"Los Angeles",19,484.32,2442.68
+31,Supplier_31,Dallas,19,458.95,1748.42
+1,Supplier_1,Seattle,17,502.41,2717.18
+21,Supplier_21,"San Francisco",17,556.53,1978.59
+19,Supplier_19,Boston,16,496.31,2563.19
+27,Supplier_27,"San Francisco",15,541.47,3109.80
+48,Supplier_48,Seattle,12,511.33,2125.50
+16,Supplier_16,Dallas,12,585.25,2436.50
