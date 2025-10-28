@@ -448,19 +448,6 @@ GROUP BY stock_category
 ORDER BY product_count DESC;
 ```
 
-### Step 5: Export Results
-```sql
-SELECT * INTO OUTFILE 'Category_Performance_Output.csv'
-FIELDS TERMINATED BY ','
-FROM (
-    SELECT category, SUM(annual_sales_units) AS total_units_sold,
-           SUM(stock_on_hand) AS total_stock_on_hand,
-           ROUND(SUM(annual_sales_units) / NULLIF(SUM(stock_on_hand),0),2) AS category_turnover_ratio
-    FROM products
-    GROUP BY category
-) t;
-```
-
 ## 🎓 Learning Outcomes
 
 - Supply chain and inventory management principles
