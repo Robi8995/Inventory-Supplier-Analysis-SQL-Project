@@ -24,7 +24,7 @@ A comprehensive SQL-based inventory management and supply chain analytics projec
 
 **Objective:** Optimize inventory management, assess product performance, identify supplier dependencies, and prioritize reorders to minimize stockouts, reduce carrying costs, and improve supply chain efficiency.
 
-**Database:** `inventory_db' | **Industry:** Supply Chain & Inventory Management
+**Database:** ` inventory_db ' | **Industry:** Supply Chain & Inventory Management
 
 **Problem Statement:**  
 Organizations struggle with inventory inefficiencies, including stockouts, overstock situations, supplier concentration risks, and suboptimal reorder decisions, leading to operational delays and increased costs. This project provides data-driven inventory optimization, product performance analysis, supplier risk assessment, and strategic reorder prioritization to minimize costs and maximize supply chain resilience.
