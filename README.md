@@ -476,13 +476,22 @@ FROM (
 - Working with large product datasets (1,200+ records)
 - Creating actionable business intelligence for procurement decisions
 
+---
+
+## 📚 Technical Stack
+
+| Component | Technology |
+|-----------|------------|
+| **Database** | MySQL 8.0+ |
+| **Languages** | SQL |
+| **Tools** | MySQL Workbench, CSV Export |
+
+---
+
 ## 📝 Author
 **Robin Jimmichan Pooppally**  
 [LinkedIn](https://www.linkedin.com/in/robin-jimmichan-pooppally-676061291) | [GitHub](https://github.com/Robi8995)
 
-## 📚 Technical Stack
-- Database: MySQL 8.0+
-- Languages: SQL
-- Tools: MySQL Workbench, CSV Export
+---
 
-*This project demonstrates practical SQL expertise in supply chain analytics, combining database design with inventory optimization and supplier management principles to drive measurable improvements in procurement efficiency, cost reduction, and supply chain resilience.*
+*This project demonstrates practical SQL expertise in supply chain analytics, combining database design with inventory optimization and supplier management principles to drive measurable improvements in procurement efficiency, cost reduction, and supply chain resilience*
