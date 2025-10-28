@@ -250,34 +250,34 @@ Organizations struggle with inventory inefficiencies, including stockouts, overs
 
 **CSV Files Generated:**
 
-1. **Category_Performance_Output.csv** - Inventory performance by category (8 rows)
+1. **Category Performance Dashboard.csv** - Inventory performance by category (8 rows)
    - Category, Total Units Sold, Total Stock, Turnover Ratio
 
-2. **Supplier_Dependency_Output.csv** - Supplier analysis (50 rows)
+2. **Supplier Dependency Analysis.csv** - Supplier analysis (50 rows)
    - Supplier ID, Supplier Name, Total Products, % of Portfolio
 
-3. **Stock_Levels_Output.csv** - Stock status classification (1,200 rows)
+3. **Stock Status Classification.csv** - Stock status classification (1,200 rows)
    - Product ID, Product Name, Category, Stock On Hand, Reorder Point, Status
 
-4. **Reorder_Priority_Output.csv** - Prioritized reorder list (1,200 rows)
+4. **Reorder Priority Ranking.csv** - Prioritized reorder list (1,200 rows)
    - Product ID, Product Name, Stock, Reorder Point, Annual Sales, Turnover Ratio, Priority
 
-5. **Turnover_Ratio_Output.csv** - Product turnover analysis (1,200 rows)
+5. **Product Inventory Turnover.csv** - Product turnover analysis (1,200 rows)
    - Product ID, Product Name, Annual Sales, Stock, Turnover Ratio
 
-6. **Low_Stock_Alerts_Output.csv** - Critical inventory alerts (255 rows)
+6. **Low Stock Alerts.csv** - Critical inventory alerts (255 rows)
    - Product ID, Product Name, Category, Stock On Hand, Reorder Point, Days to Stockout
 
-7. **High_Turnover_Products_Output.csv** - Top 50 fastest-moving items (50 rows)
+7. **High-Turnover Products (Top 50).csv** - Top 50 fastest-moving items (50 rows)
    - Product ID, Product Name, Category, Turnover Ratio, Stock, Annual Sales
 
-8. **Category_Comparison_Output.csv** - Cross-category metrics (8 rows)
+8. **Category-wise Inventory Performance.csv** - Cross-category metrics (8 rows)
    - Category, Total Units, Total Stock, Avg Turnover, Best Performer, Worst Performer
 
-9. **Supplier_Risk_Matrix_Output.csv** - Supplier concentration analysis (50 rows)
+9. **Supplier Performance Metrics.csv** - Supplier concentration analysis (50 rows)
    - Supplier ID, Supplier Name, Location, Product Count, Risk Level
 
-10. **Inventory_Optimization_Report.csv** - Comprehensive optimization recommendations (1,200 rows)
+10. **Stock Levels & Reorder Alerts.csv** - Comprehensive optimization recommendations (1,200 rows)
     - Product ID, Current Stock, Recommended Stock, Reorder Quantity, Estimated Savings
 
 **Database Files:**
