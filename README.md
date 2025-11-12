@@ -14,9 +14,8 @@ A comprehensive SQL-based inventory management and supply chain analytics projec
 3. [Key Analysis Steps](#-key-analysis-steps)
 4. [SQL Techniques Used](#-sql-techniques-used)
 5. [Key Findings](#-key-findings)
-6. [Business Impact](#-business-impact)
-7. [Output Files](#-output-files)
-8. [How to Use](#-how-to-use)
+6. [Output Files](#-output-files)
+7. [How to Use](#-how-to-use)
 
 ---
 
